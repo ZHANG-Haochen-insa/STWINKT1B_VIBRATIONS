@@ -1,0 +1,12 @@
+../Core/Src/main.c:90:5:main	32	static
+../Core/Src/main.c:269:6:SystemClock_Config	96	static
+../Core/Src/main.c:318:13:MX_SPI3_Init	8	static
+../Core/Src/main.c:358:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:406:13:MX_GPIO_Init	64	static
+../Core/Src/main.c:732:5:__io_putchar	24	static
+../Core/Src/main.c:750:16:platform_write	24	static
+../Core/Src/main.c:770:16:platform_read	24	static
+../Core/Src/main.c:788:13:tx_com	16	static
+../Core/Src/main.c:799:13:platform_delay	16	static
+../Core/Src/main.c:805:6:HAL_UART_TxCpltCallback	32	static
+../Core/Src/main.c:832:6:Error_Handler	4	static,ignoring_inline_asm

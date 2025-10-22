@@ -1,0 +1,10 @@
+stred_ctrl.h:9:20:stred_enable_cfg_access	8	static
+stred_ctrl.h:14:20:stred_disable_cfg_access	8	static
+stred_ctrl.c:12:6:initialize_ctrl_interface	8	static
+stred_ctrl.c:18:5:stred_is_busy	4	static
+stred_ctrl.c:23:6:acknowledge_cmd_done	8	static
+stred_ctrl.c:31:6:_stred_send_cmd	36	static
+stred_ctrl.c:52:6:set_stred_mode	16	static
+stred_ctrl.c:57:6:inspect_buffer	24	static
+stred_ctrl.c:68:6:process_answer	16	static
+stred_ctrl.c:101:6:get_accelerometer_samples	24	static
